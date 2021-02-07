@@ -1,0 +1,14 @@
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\bin\Debug\sudoku.exe.config
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\bin\Debug\sudoku.exe
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\bin\Debug\sudoku.pdb
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\obj\Debug\sudoku.exe
+F:\Programming\ORT Hermelin\צהל\sudoku\sudoku\obj\Debug\sudoku.pdb
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\bin\Debug\sudoku.exe.config
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\bin\Debug\sudoku.exe
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\bin\Debug\sudoku.pdb
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\obj\Debug\sudoku.exe
+F:\Programming\ORT Hermelin\צהל\SudokuSolve\sudoku\sudoku\obj\Debug\sudoku.pdb
